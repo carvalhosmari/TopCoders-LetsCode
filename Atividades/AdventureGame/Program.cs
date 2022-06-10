@@ -6,7 +6,7 @@ namespace AdventureGame
     {
         static void Main(string[] args)
         {
-            //Parâmetros jogador
+            
             int maxPtsVidaJogador = 500;
             int maxPtsMagiaJogador = 100;
             int moedasOuro = 300;
